@@ -19,14 +19,7 @@
     font-weight: bold;
     font-family: cursive;
 }
-#anku{
-    position: absolute;
-    top: 250px;
-    right: 200px;
-    font-size: 40px;
-    font-weight: bold;
-    font-family: cursive;
-}
+
 #hiscoreBox{
     position: absolute;
     top: 60px;
