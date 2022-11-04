@@ -1,9 +1,9 @@
 // constants and variables
 let direction={x: 0 , y:0};
-let foodSound=new Audio('../../music/food.mp3');
-let gameOverSound= new Audio('../music/gameover.mp3');
-let moveSound= new Audio('music/move.mp3');
-let musicSound=new Audio('music/music.mp3');
+let foodSound=new Audio('food.mp3');
+let gameOverSound= new Audio('gameover.mp3');
+let moveSound= new Audio('move.mp3');
+let musicSound=new Audio('music.mp3');
 let lastPaintTime=0;
 let speed=4;
 let snakeArr=[{x:18, y:19}];
